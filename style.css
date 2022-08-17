@@ -5,3 +5,8 @@ body {
     position: fixed;
     top: 0px;
 }
+#minha_foto {
+    padding: 50px 10px;
+    width: 200px;
+    height: 200px;
+}
