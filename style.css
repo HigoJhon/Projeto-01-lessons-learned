@@ -4,7 +4,7 @@ body {
 
 #cabecalho {
   position: fixed;
-  top: 0 px;
+  top: 0;
 }
 
 #minha_foto {
@@ -14,10 +14,12 @@ body {
 }
 
 #licoes-desejo {
-  margin-top: 100px;
+  margin: 40px 30px;
   border-style: solid;
   border-color: green;
   padding: 25px 50px;
+  display: inline;
+  float: right;
 }
 
 #rodape {
